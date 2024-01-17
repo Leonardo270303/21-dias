@@ -24,4 +24,4 @@ imc = peso / (altura * altura)
 //Exibindo as informacoes no console console. 1og("018
 
 console.log("olá" + nome + ", voce tem " + idade + " anos, nasceu em " + anoNasc +
-", tem " + altura +" de altura, pesa " + peso + " kg e seu IMC E " + imc + "kg/mE")
+", tem " + altura + "de altura, pesa " + peso + " kg e seu IMC E " + imc + "kg/mE")
