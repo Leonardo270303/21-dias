@@ -13,7 +13,7 @@ peso = parseInt (prompt("Digite seu peso: "))
 
 
 
-//Calculando o ano que a pessoa ansceu e o IMC
+//Calculando o ano que a pessoa ansceu e o IMC !
 
 let anoNasc = 0
 anoNasc = 2023 - idade
