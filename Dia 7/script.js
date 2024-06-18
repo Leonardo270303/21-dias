@@ -43,16 +43,3 @@ console.log("A media geral dos alunos foi" + mediaGeral)
 console.log("A quantidade de homens foi de:" + qtdHomens)
 console.log("A quantidade de mulheres com notas maiores que 7 foi de:" + qtdMulheresAcima7)
 console.log("A maior nota entre homens foi de:" + maiorNotaEntreHomens)
-=======
-let mediageral = 0
-let qtdHomens = 0
-let qtdMulheresAcimade7 = 0
-let maiorNotaHomens = 0
-let contador = 1
-
-
-while(contador <=10) {
-    nota = parseInt(prompt('Digite a nota do ' + contador + 'º aluno'))
-    sexo = prompt('Digite o sexo do aluno (m/f)')
-}
->>>>>>> e18c1fa691e20deed266ff12af14fdef096c55c0
